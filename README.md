@@ -1,4 +1,4 @@
-# hello-world
+# hello world
 
 Hey, I'm Erik!
 
