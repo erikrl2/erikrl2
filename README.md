@@ -1,6 +1,7 @@
-# hello world
+# hello world 👽
 
 Hey, I'm Erik!
 
 I like Java and building small games with JavaFX! 😃
-But I'm also interested in other languages.
+
+I mostly use Github to upload personal programming projects and for learning git/github. 💻
