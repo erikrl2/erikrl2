@@ -2,6 +2,6 @@
 
 Hey, I'm Erik!
 
-I like Java and building small games with JavaFX! 😃
+I like open-source software, Linux and tiling window managers! 😃
 
-I mostly use Github to upload personal programming projects and for learning git/github. 💻
+Mostly I program Java/JavaFX. 
