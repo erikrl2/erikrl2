@@ -2,5 +2,11 @@
 
 Hey, I'm Erik!
 
-I like open-source software, Linux and tiling window managers! 😃
+I like: 
+- gaming
+- programming
+- Linux and tiling window managers
 
+---
+
+vim is the best editor
