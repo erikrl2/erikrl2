@@ -2,8 +2,7 @@
 
 Hey, I'm Erik!
 
-I like: 
+I like:
+- programming (mostly C++ and Java)
 - gaming
-- programming
 - Linux and tiling window managers
-
